@@ -23,3 +23,7 @@
 // -y 或 --yus：自动确认操作（类似于默认接受所有提示）
 // @baidumcp/mcp-server-baidu-map：要通过 npx 执行的 npm 包名
 // BAIDU_MAP_API_KEY：百度地图开放平台 API 密钥
+
+// 下载mcp npm i -g @baidumap/mcp-server-baidu-map
+// 查看下载路径 npm config get prefix
+// 主要观察index.js这个文件
